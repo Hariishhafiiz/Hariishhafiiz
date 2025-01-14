@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Muhammad Hariish Hafiiz  
 
-<!--
-**Hariishhafiiz/Hariishhafiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Universitas Gadjah Mada (UGM) with a strong passion for **data science**, **data analyst**, **data engineer** and **machine learning**. I focus on leveraging data-driven approaches to solve complex problems and deliver impactful solutions.  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me  
+- 🌟 Dedicated to continuous learning and professional growth.  
+- 🤝 Thrive in collaborative and project-oriented environments.  
+- 🔍 Committed to creating meaningful impact through technology.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do  
+I specialize in applying data-driven methodologies to uncover insights, develop solutions, and craft tools that make a difference. My work emphasizes **clarity**, **precision**, and **impact**.  
+
+## 📂 Explore My Work  
+Feel free to browse my repositories for projects that reflect my expertise and dedication.  
+
+## 📫 Get in Touch  
+I am always open to discussions, collaborations, and opportunities to contribute to impactful initiatives.  
+- 📧 Email: hariishhafiiz9@gmail.com  
+- 🌐 LinkedIn: linkedin.com/in/muhammad-hariish-hafiiz  
+
+Let’s connect and create something amazing together! 🚀
