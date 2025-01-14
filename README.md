@@ -16,6 +16,6 @@ Feel free to browse my repositories for projects that reflect my expertise and d
 ## 📫 Get in Touch  
 I am always open to discussions, collaborations, and opportunities to contribute to impactful initiatives.  
 - 📧 Email: hariishhafiiz9@gmail.com  
-- 🌐 LinkedIn: linkedin.com/in/muhammad-hariish-hafiiz  
+- 🌐 LinkedIn: https://www.linkedin.com/in/muhammad-hariish-hafiiz/  
 
 Let’s connect and create something amazing together! 🚀
